@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A personal website of sorts.
 baseurl: "/bay" # the subpath of the site
 url: "https://ramellus.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+og_image: https://simoneramello.carrd.co/assets/images/image01.jpg
 google_analytics: "UA-121636368-3"
 
 header:
