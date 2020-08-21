@@ -1,0 +1,48 @@
+ul {
+	list-style-type: square;}
+      ul#home {
+        list-style-type: none;
+      }
+	ul li#cv::before {
+	content: "\265C";
+  	display: inline-block; /* Needed to add space between the bullet and the text */
+  	width: 1em; /* Also needed for space (tweak if needed) */
+  	margin-left: -1em; /* Also needed for space (tweak if needed) */
+	}
+	ul li#writing::before {
+	content: "\265A";
+  	display: inline-block; /* Needed to add space between the bullet and the text */
+  	width: 1em; /* Also needed for space (tweak if needed) */
+  	margin-left: -1em; /* Also needed for space (tweak if needed) */
+	}
+	ul li#medium::before {
+	content: "\265E";
+  	display: inline-block; /* Needed to add space between the bullet and the text */
+  	width: 1em; /* Also needed for space (tweak if needed) */
+  	margin-left: -1em; /* Also needed for space (tweak if needed) */
+	}
+	ul li#twitter::before {
+	content: "\265D";
+  	display: inline-block; /* Needed to add space between the bullet and the text */
+  	width: 1em; /* Also needed for space (tweak if needed) */
+  	margin-left: -1em; /* Also needed for space (tweak if needed) */
+	}
+      em {color: #8E5955;}
+      .cv-item {
+        margin-left: 5x;
+        border-left: 20px solid #efefe8;
+        padding-left: 10px;
+        font-size: 18px;
+        line-height: 20px;
+      }
+      .cv-title {
+        font-variant: small-caps;
+        text-transform: lowercase;
+        font-size: 24px;
+      }
+      .colour {color: #8E5955;}
+      li.org {list-style-type: circle;}
+      li.par {list-style-type: disc;}
+  
+  
+}
