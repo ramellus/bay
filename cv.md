@@ -2,7 +2,6 @@
 layout: cv
 title: CV
 slug: /cv
----
 ## Education
 items:
   - title: Bachelor degree in Mathematics at *Università degli Studi di Torino*
@@ -32,3 +31,5 @@ items:
       src: 
       alt: smth
     description: My bachelor thesis won the <a href="http://www.ailalogica.it/2020/07/24/vincitori-premio-aila-32-anno-2019-20/">3+2 thesis prize</a> from the Italian Association of Logic and Applications (AILA).
+
+---
