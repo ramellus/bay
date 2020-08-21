@@ -2,7 +2,6 @@
 layout: cv
 title: CV
 slug: /cv
-## Education
 items:
   - title: Bachelor degree in Mathematics at *Università degli Studi di Torino*
     image:
@@ -10,10 +9,8 @@ items:
       alt: bachelor
     description: <b>Thesis:</b> <em>Through the Λ-glass: the topological path to Nonstandard Analysis</em> (<a href="bachelor.pdf">pdf</a>)<br>
         <b>Thesis advisor:</b> prof. Alessandro Andretta · <b>Grade:</b> 110/110 <em>cum laude</em>
-        
-## Events
+       
      [○] means "organized" · [●] means "participated in"
-items:
   - title: ○ <a href="https://sites.google.com/view/smthconference/">Short Model Theory Huddle</a>, 23/05/2020
     image:
       src: 
@@ -24,8 +21,6 @@ items:
       src: 
       alt: smth
     description:
-## Varia
-items:
   - title: AILA prize
     image:
       src: 
