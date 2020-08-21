@@ -7,7 +7,7 @@
 // Our variables
 $base-url: "{{ site.baseurl }}";
 
-$base-font-family: Palatino;
+$base-font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;;
 $base-font-size: 14px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.7;
